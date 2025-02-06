@@ -1,0 +1,18 @@
+body {
+    background-color: #9bf0ff;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #3171cf;
+}
+
+hr {
+    border: solid;
+    border-color: #4759ff;
+    height: 3px;
+    background: #4759ff;
+}
